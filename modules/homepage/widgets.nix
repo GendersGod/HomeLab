@@ -1,0 +1,16 @@
+[
+  {
+    resources = {
+      cpu = true;
+      memory = true;
+      disk = "/";
+    };
+  }
+
+  {
+    search = {
+      provider = "duckduckgo";
+      target = "_blank";
+    };
+  }
+]
